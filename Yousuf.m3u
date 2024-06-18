@@ -1,4 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1, star 4k 1
+#EXTINF:-1 group title="Sports", star 4k 1
 http://78.40.140.209:9222/86e4228d28529e59bbbbbd3c29d37c14577cba6a81391355216414e508bbadb57353ce9120/index.m3u8?token=76b18f1b60ec3d9d81cddab3f915e5c6bf6d2a59c4b4d748c5a9dbe0d7766c059f54678d32ca16eda311a587970662bb1d37e93b4909ee5e3dac96dde74aff8f30753f1c-bb216dd9a8f1ae214f30b4ea9bde951e
+
+#EXTM3U
+
+#EXTINF:-1 group title="Sports", star 4k 2
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/t20-world-cup-2024-4k-uhd-hevc/index.ts
+
+#EXTM3U
+
+#EXTINF:-1, Star 4k 3
+https://tgaadi-web.tech/b1g.php?tv=662136
+
+#EXTM3U
+
+#EXTINF:-1, Star 4k 4
+http://b1g.uk/live/Karl123/Karl123/662136.ts
+
+#EXTM3U
+
+#EXTINF:-1, Star 4k 5
+http://b1g.uk/live/ram/ram/662136.ts
+
+#EXTM3U
+
+#EXTINF:-1, Sky Sports True 4k
+http://apex02.keycdn.cc/PPVCrick8/index.m3u8?token=f266f72a0a96031c00086c9c4b096ab0
+
+#EXTM3U
+
+#EXTINF:-1,Starz Play
+http://b1g.uk/live/ram/ram/260992.ts
+
+#EXTM3U
+
+#EXTINF:-1, Toffee EN
+https://t.ly/TOFFEE-EN1/Zubayer_Op.m3u8
+
+#EXTM3U
+
+#EXTINF:-1, Toffee EN 2
+https://t.ly/TOFFEE-EN2/Zubayer_Op.m3u8
+
+#EXTM3U
+
+#EXTINF:-1, Star Sports 1
+http://apex02.keycdn.cc/PPVCrick2/index.m3u8?token=36c6add386724f71678dc73f368d4cd4
+
+#EXTM3U
+
+#EXTINF:-1, Willow
+http://apex02.keycdn.cc/WillowHD/index.m3u8?token=df5f4a79683d816856fe10eddb126a34
